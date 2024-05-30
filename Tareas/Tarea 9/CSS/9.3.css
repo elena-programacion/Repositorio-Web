@@ -1,0 +1,14 @@
+body {
+    background-color: lime;
+    font-family: arial;
+}
+
+dt {
+    color: coral;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+dd {
+    color: indigo;
+}

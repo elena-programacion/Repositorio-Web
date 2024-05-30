@@ -1,0 +1,36 @@
+h1 {
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    color: orange;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 20px;
+    color: hotpink;
+}
+
+a:link {
+    font-family: Calibri;
+    font-size: 25px;
+    color: green;    
+}
+
+a:visited {
+    font-family: Calibri;
+    font-size: 25px;
+    color: lightgreen;
+}
+
+a:hover {
+    font-family: Calibri;
+    font-size: 25px;
+    color: darkgreen;
+}
+
+a:active {
+    font-family: Calibri;
+    font-size: 25px;
+    color: darkgreen;
+}
